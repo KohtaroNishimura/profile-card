@@ -120,14 +120,14 @@ style: |
   }
 
   .col-left {
-    flex: 1.1;
+    flex: 1;
     display: flex;
     flex-direction: column;
     gap: 14px;
   }
 
   .col-right {
-    flex: 0.9;
+    flex: 1;
     display: flex;
     flex-direction: column;
     gap: 14px;
