@@ -4,8 +4,8 @@ title: 自己紹介カード | 西村耕太郎
 description: 西村耕太郎の自己紹介カード。Web制作・SNS運用・動画制作・システム開発まで一貫対応。
 author: 西村耕太郎
 keywords: 西村耕太郎,自己紹介カード,Web制作,SNS運用,動画制作,システム開発,沖縄
-url: https://kohtaronishimura.github.io/profilecard/
-image: https://kohtaronishimura.github.io/profilecard/ogp.png?v=20260311
+url: https://kohtaronishimura.github.io/intro-card/
+image: https://kohtaronishimura.github.io/intro-card/ogp.png?v=20260311
 theme: default
 paginate: false
 size: A4
