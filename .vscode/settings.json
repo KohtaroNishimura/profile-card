@@ -1,0 +1,4 @@
+{
+  "marp.enableHtml": true,
+  "markdown.preview.security.level": "allow-insecure-local-content"
+}
